@@ -1,13 +1,13 @@
 {
   "name": "Machine-Test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Machine Test For Code Brew Labs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node.js","mongodb"],
+  "author": "Lakshay Kalra",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.823.0",
